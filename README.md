@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+<div align='center'>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=4조-놀고먹조%20리액트&fontSize=80" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+</div>
+ <br>
+ <br>
 
-## Available Scripts
+<H2 align='center'> 🧶 Tech Stacks 📚</H2>
 
-In the project directory, you can run:
+<div align='center'> 
+ <img src="https://img.shields.io/badge/React-009966?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-007396?style=flat&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+ <br>
+ <br>
 
-### `npm start`
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinHwigyeol&layout=compact">
+</div>
+ 
+ <br>
+ <br>
+ <div align='center'>
+ 
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ 
+<h1>프로젝트 제목</h1>
+<b>먹고놀고, 놀고먹자! NOLMUG</b>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+<h1>프로젝트 소개</h1>
+20대를 타겟으로 한, 음식점/ 카페-디저트점 / 핫 플레이스 (관광명소, 유명한 곳, 좋은 산책로) 추천 웹
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<h1>프로젝트 문서 (기획 및 디자인 방법 논의, 브레인 스토밍, 기획서)</h1>
+https://docs.google.com/document/d/1qx_2Rx0_r8Zxv5-hGX5Iu_If-1NCngNqkqd-jq7Z8gQ/edit
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h2>개발 기간</h2>
+8월 1개월
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+<h2>개발환경</h2>
+React, HTML5, CSS3, JS, node JS
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h2>주요 기능</h2>
+REACT USE EFFECT, USE STATE, KAKAOMAP API, OPEN WEATEHR API, NAVER SEARCH API
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<h2>피그마 링크</h2>
+https://www.figma.com/file/oV4EpeR06Pnwbk3raIsMgz/%5B%ED%94%BC%EA%B7%B8%EB%A7%88%5D[…]8!!?type=design&node-id=0%3A1&mode=design&t=ZRcUyDOxCyhfuipF-1
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<h2>바로가기</h2>
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<h3>멤버구성</h3>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<b>팀장 김동원</b>
 
-### Code Splitting
+<b>육경수</b>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<b>허지훈</b>
 
-### Analyzing the Bundle Size
+<b>박준호</b>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<div align='center'>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=footer&text=감사합니다.&fontSize=80" />
+</div>
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
